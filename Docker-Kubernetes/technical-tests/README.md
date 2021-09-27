@@ -35,3 +35,4 @@ a set of sample manifests have been generated and pushed under './sample_templat
 
 ## CI using github actions
 github actions have been used for CI and the 'latest' image is being pushed into a private dockerhub repo 
+Uses the buildx tool kit and cache handover to immutable runners
